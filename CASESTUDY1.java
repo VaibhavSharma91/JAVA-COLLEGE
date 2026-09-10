@@ -6,7 +6,7 @@ public class CASESTUDY1 {
         String name = sc.nextLine();
         System.out.print("Enter marks in Subject 1: ");
         int m1 = sc.nextInt();
-        System.out.print("Enter marks in Subject 2: ");
+        System.out.print("Enter marks in Subject 2 : ");
         int m2 = sc.nextInt();
         System.out.print("Enter marks in Subject 3: ");
         int m3 = sc.nextInt();
